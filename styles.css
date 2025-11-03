@@ -55,6 +55,9 @@ ul {
 .open-icon {
   font-size: 24px;
   cursor: pointer;
+  align-self: flex-end;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .close-icon {
